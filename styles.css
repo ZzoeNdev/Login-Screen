@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGmUIqf8voIQx5_IisSSd1jRg8TdjxYKsQSuDgpPE2nALVkPD47brlyoYI1RLqpZcCZq2iW5GEZFKsiNZUX8yap8IOonehpH7iS8tGChPPrF-2ubrJAIRN4s3_OFcjp3EY42A9Y9xCw4VxDD5ftSRd2FZ_MuqH-ASxlHT86MRlLSDe0Xp9I9bkfnQ4Q/s1920/12052022-BLUE-WAVES-PC.png");
+}
+
+.container-geral{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.formContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 45vw;
+    height: 35vh;
+    background-color: rgba(235, 235, 235, 0.86);
+    border: solid 1px rgba(87, 87, 87, 1);
+    border-radius: 34px;
+}
+
+.semloginContainer{
+    position: absolute;
+    background: linear-gradient(-140deg, rgba(76, 71, 222, 1) 55%, rgba(245, 245, 245, 1));
+    width: 22.5vw;
+    height: 35vh;
+    border-radius: 34px;
+    right: 27.5vw;
+}
