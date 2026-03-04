@@ -33,3 +33,37 @@ body{
     border-radius: 34px;
     right: 27.5vw;
 }
+
+@keyframes loginTransition {
+
+    0% {
+        right: 27.5vw;
+    }
+
+    100% {
+        right: 50vw;
+    }
+
+}
+
+@keyframes loginTransition2 {
+
+    0% {
+        right: 50vw;
+    }
+
+    100% {
+        right: 27.5vw;
+    }
+
+}
+
+.open{
+    animation: loginTransition 1s ease-in-out;
+    right: 50vw;
+}
+
+.close{
+    animation: loginTransition2 1s ease-in-out;
+    right: 27.5vw;
+}
