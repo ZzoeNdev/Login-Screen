@@ -17,7 +17,7 @@
 
 <div align="center" style="display:flex;">
   
-  <img src="imgs/exampleGIF/gifHome.gif" alt="" height="250px">
+  <img src="overview/Login_Sign-in-Opera2026-03-0423-45-51-ezgif.com-video-to-gif-converter.gif" alt="" height="250px">
   
 </div>
 
